@@ -1,0 +1,8 @@
+flask
+flask-cors
+speechrecognition
+pyttsx3
+nltk
+tensorflow
+pyaudio
+deep-translator
